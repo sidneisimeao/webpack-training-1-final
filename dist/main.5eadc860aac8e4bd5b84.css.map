@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,kBAAoB,CACpB,UACF","file":"main.5eadc860aac8e4bd5b84.css","sourcesContent":["body {\n  background: deeppink;\n  color: white;\n}\n"]}
